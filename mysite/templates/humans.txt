@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kewal Panchputre -- Developer -- @kewal001
 
 # THANKS
 
-    <name>
+    Thanks to all the viewers for using this app.
 
 # TECHNOLOGY COLOPHON
 
